@@ -16,3 +16,8 @@
 number = 98
 print("{:d} battey street" .format(number))
 ```
+  Python script to print a float with only 2 digits stored in a variable
+```
+number = 3.14159
+print("Float: {:.2f}" .format(number))
+```
