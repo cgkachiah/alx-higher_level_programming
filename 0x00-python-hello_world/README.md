@@ -30,3 +30,10 @@ str = "Holberton School"
 print("{:s}{:s}{:s}" .format(str, str, str))
 print("{:.9}" .format(str))
 ```
+  Python script to concatenate and print two seperate variables
+```
+str1 = "Holberton"
+str2 = "School"
+str1 += " " + str2
+print("Welcome to {}!".format(str1))
+```
