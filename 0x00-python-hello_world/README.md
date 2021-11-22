@@ -14,5 +14,5 @@
   Python script to print an integer stored in a variable
 ```
 number = 98
-print("{0} battey street" .format(number))
+print("{:d} battey street" .format(number))
 ```
