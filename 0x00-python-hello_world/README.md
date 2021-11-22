@@ -24,6 +24,6 @@ print("Float: {:.2f}" .format(number))
   Python script to print a string 3 times and the first 9 characters of the string stored in a variable
 ```
 str = "Holberton School"
-print("{:s} {:s} {:s}" .format(str, str, str))
+print("{:s}{:s}{:s}" .format(str, str, str))
 print("{:.9}" .format(str))
 ```
