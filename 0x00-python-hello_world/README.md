@@ -54,3 +54,7 @@ print("Middle word: {}".format(middle_word))
 ```
 str = str[39:-63] + str[106:-17] + str[:6]
 ```
+  Python script to print The Zen Of Python
+```
+import this
+```
