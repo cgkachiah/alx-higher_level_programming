@@ -52,5 +52,5 @@ print("Middle word: {}".format(middle_word))
 ```
   Python script to print object-oriented programming with Python
 ```
-str = "object-oriented programming with Python"
+str = str[39:-63] + str[106:-17] + str[:6]
 ```
